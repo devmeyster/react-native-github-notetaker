@@ -1,4 +1,4 @@
-import React from 'react-native';
+import React from 'react';
 import api from '../../App/Utils/api';
 import Dashboard from './Dashboard'
 

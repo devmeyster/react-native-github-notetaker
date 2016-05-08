@@ -1,4 +1,4 @@
-import React from 'react-native';
+import React from 'react';
 import Badge from './Badge';
 import Separator from './Helpers/Separator';
 import Web_View from './Helpers/WebView';

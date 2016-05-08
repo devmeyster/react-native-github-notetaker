@@ -1,4 +1,4 @@
-import React from 'react-native';
+import React from 'react';
 import Profile from './Profile';
 import Repositories from './Repositories';
 import Notes from './Notes';

@@ -1,4 +1,4 @@
-import React from 'react-native';
+import React from 'react';
 import api from '../Utils/api';
 import Separator from './Helpers/Separator';
 import Badge from './Badge';
